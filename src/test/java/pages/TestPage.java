@@ -45,5 +45,4 @@ public class TestPage {
     public SelenideElement pageHader = $(By.xpath("//h3"));
 
     public SelenideElement backToTechpro = $(By.xpath("//a[@type='button']"));
-
 }
